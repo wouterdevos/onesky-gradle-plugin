@@ -14,6 +14,7 @@ Translation tasks
 downloadTranslation - Download specified translation files (values-*/strings.xml)
 showTranslationProgress - Show translation progress
 uploadTranslation - Upload the default translation file (values/strings.xml)
+uploadTranslationAndMarkAsDeprecated - Upload the default translation file (values/strings.xml) and deprecated removed strings
 ```
 
 
